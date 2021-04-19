@@ -14,7 +14,7 @@ To access this project on your local files, you can clone it using these steps
 1. This will clone the repositoty into your local folder
 1. __Enjoy :)__
 ### BDD
-Title: Ghanian Day Names Calculator.
+Title: Delani Studio.
 
 As the Developer,
 I want the Application to display a user's Akan name when the enter date button is clicked on the landing page.
