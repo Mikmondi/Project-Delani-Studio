@@ -71,3 +71,6 @@ h1{
     padding-top: 40px;
     color: white;
 }
+.design-hide{
+    display: none;
+}
