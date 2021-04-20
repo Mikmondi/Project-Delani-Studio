@@ -1,4 +1,8 @@
-.topHeader{
+ body{
+     text-align: center;
+     font-family: merriweather;
+ }
+ .topHeader{
     background-image: url("/backgrounds/h_img.jpg");
     text-align: center;
     color: white;
@@ -8,22 +12,20 @@
     
 }
 h1{
-    padding: 20px;
     font-size: xx-large;
     font-weight: bolder;
-    padding-left: 2%;
 }
 #oval {
     border: 2px solid white;
-    margin-right: 900px;
-    margin-left: 700px;
+    margin-right: 750px;
+    margin-left: 750px;
     margin-top: 420px;
     padding-top: 0%;
-    border-radius: 80%;
+    border-radius: 40%;
 }
 #circle {
     border: 3px solid white;
-    margin-right: 700px;
-    margin-left: 700px;
+    margin-right: 720px;
+    margin-left: 720px;
     border-radius: 50%;
 }
