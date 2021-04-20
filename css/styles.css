@@ -3,7 +3,7 @@
      font-family: merriweather;
  }
  .topHeader{
-    background-image: url("/backgrounds/h_img.jpg");
+    background-image: url("../backgrounds/h_img.jpg");
     text-align: center;
     color: white;
     background-size: cover;
@@ -66,7 +66,7 @@ h1{
     padding: 10px;
 }
 .contactsUs{
-    background-image: url("/backgrounds/c_image.jpg");
+    background-image: url("../backgrounds/c_image.jpg");
     background-size: cover;
     padding-top: 40px;
     color: white;
