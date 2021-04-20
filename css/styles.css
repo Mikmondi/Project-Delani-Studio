@@ -53,3 +53,15 @@ h1{
     margin-right: 10%;
 
 }
+.portfolio1{
+    display: flex;
+    flex-direction: rox;
+    justify-self: space-evenly;
+    padding: 10px;
+}
+.portfolio2{
+    display: flex;
+    flex-direction: rox;
+    justify-self: space-between;
+    padding: 10px;
+}
