@@ -65,3 +65,9 @@ h1{
     justify-self: space-between;
     padding: 10px;
 }
+.contactsUs{
+    background-image: url("/backgrounds/c_image.jpg");
+    background-size: cover;
+    padding-top: 40px;
+    color: white;
+}
