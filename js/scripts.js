@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $(".servicesIcons").click(function() {
+    $(".servicesdesign").click(function() {
       $(".design-hide").toggle();
       $(".design-show").toggle();
     });
