@@ -23,12 +23,7 @@ h1{
     padding-top: 0%;
     border-radius: 40%;
 }
-#circle {
-    border: 3px solid white;
-    margin-right: 720px;
-    margin-left: 720px;
-    border-radius: 50%;
-}
+
 .services {
     background-image: url("../backgrounds/s_image.jpg");
     background-size: cover;
@@ -70,6 +65,7 @@ h1{
     background-size: cover;
     padding-top: 40px;
     color: white;
+    padding-bottom: 50px;
 }
 .design-hide{
     display: none;
@@ -80,3 +76,4 @@ h1{
 .product-hide{
     display: none;
 }
+
