@@ -72,6 +72,9 @@ h1{
 .product-hide{
     display: none;
 }
+.feedback{
+    display: none;
+}
 
 .socialIcon{
     display: flex;

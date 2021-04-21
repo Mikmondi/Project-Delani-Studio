@@ -18,3 +18,13 @@ $(document).ready(function() {
       $(".product-show").toggle();
     });
   });
+
+  $(document).ready(function() {
+    $(".contactsUs").submit(function(event) {
+        var contactName = $("#nameForm").val(); 
+        $(".nameEnt").text(contactName);
+
+        $(".feedback").show();
+        event.preventDefault();
+    }); 
+  });
