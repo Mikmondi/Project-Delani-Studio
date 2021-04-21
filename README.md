@@ -17,12 +17,8 @@ To access this project on your local files, you can clone it using these steps
 Title: Delani Studio.
 
 As the Developer,
-I want the Application to display a user's Akan name when the enter date button is clicked on the landing page.
- Given that a user has entered their date of birth in the format:mm/dd/yyyy
-and they have entered their gender as either male or female
-when they enter these details on the prompt after pressing the enter date born button
-then the Akan name should be displayed in the box above the enter date born button
-and if the information entered is incorrect then an error message should be displayed in the box.
+I want the Application to display the description of the services the website offers on clicking the services icon on design,development and project management.
+ The page has a contacts form that should be able to collect the visitors data i.e the name and email and also any other info they would like to key in like feedback.
 
 ### Technologies Used
 1. HTML
